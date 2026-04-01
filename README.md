@@ -1,4 +1,4 @@
-# 🚀 Space Shooter — First Game
+# 🚀 Space Shooter 
 
 A classic 2D space shooter game built with Python and Pygame. Defend your spaceship against waves of enemies, survive as long as possible, and beat your high score!
 
